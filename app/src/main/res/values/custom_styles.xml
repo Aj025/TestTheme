@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="page_background_ch">
+        <item name="android:background">@drawable/white_gray_gradient_background</item>
+        <item name="android:paddingLeft">@dimen/activity_horizontal_padding</item>
+        <item name="android:paddingRight">@dimen/activity_horizontal_padding</item>
+        <item name="android:backgroundTint">@color/teal_700</item>
+    </style>
+
+    <style name="button_ch">
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
